@@ -1,1 +1,1 @@
-![img](https://github.com/Furious992/hw8-02/blob/main/Screenshot_20240908_154640.png?raw=true)
+
