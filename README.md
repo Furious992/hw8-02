@@ -8,6 +8,8 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 Решение 1
+
+
 ![img](https://github.com/Furious992/hw8-02/blob/main/screen1.png)
 ![img](https://github.com/Furious992/hw8-02/blob/main/screen2.png)
 ![img](https://github.com/Furious992/hw8-02/blob/main/screen3.png)
